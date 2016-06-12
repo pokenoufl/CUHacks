@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_fbb057f6bc6383e558b5a773f281367e1e715d73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_02d0a077f70077991cb68266a564bb3c8532fff0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_13b6a53a83dade831524a7bbba9fb102864572b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_4b135e11b294fda3ea2372fd3a2e6bbbe774f8c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_bd54c2209b4a3cf641f6464ae5bd817e1589087f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_8c149d7936dbf6fae59d6c58fbdd40499c77c6d3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_8ce8cab382a5c643d9435cb3f5a19dbcb5ee9530\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_220349e09e252806fc05180a0e05b384d45f3940\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_75ca21895b19aec843aeacf5d947be75415d548f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_118c9a671d7adcbf1eb9273c83bc12c03378384b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_074429f4fd25b8f74adcc25effc23a8f5e25674b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_d128ed0d4cbf5f17af0e407bf11e6c6938469106\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_cdfa7b18eecc8a855d18931168c16d6c570d3afa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_d3d13c8a2135c1d3b1e2a40cc405f8a9316fc8ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_a0010eb0cefea487909161825df3465cbed5d354\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_fa73f8b303551e5c10a085d60279b7baba1a7e39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_347201781bee30fe980ff7c953419c12fa4a39d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_9c4520cd9a884b77a3491fb9e2dfd6e19ebca9b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_64c37cc962efd1422005a9d3d7b2ea478b91f75d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_0ff85d6071826bec3139cff22da76c1cf433e734\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_033142070f6daa0a98b7e466b7efb06d01a5aa1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_3c978aec50a168a1e0f351dc8ecc9093f46766a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9160d643fda355b743156944219e1fde57f4d53b">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_263969254b4ef50f5ffdcdfd2ee4120895e66c86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_cedcd1ae70a1bba197ec890d348ce751b54055b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_4389f4a8e16679d314f5a3444017c7bef676f611\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_6f946a7e3f8831396ad26dccedbc76da403295a6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_6c9281dc5d4828c93dfc172c690dbac71713fc6e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_6cf6a3294a702d7dcaca2e90cad25f2c495a7a73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_51c27bc68ebcc04f626fbecfbd835dd41a0f0356\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_0fdba878b11775041a4eb87d8f9eba0a47a5711f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_24c4ff97e84adbf55652b7fd82e15b28b67dbfa9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_aa8ae94e9e3dd08cbcaa5d2d633a71a6f69c1916\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_8262413bacdb0c2cdeae7daba10199679b212c87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_04ee23026ffab7c67a8ed78e534f5d5510f87a83\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_e3d2744885ef8c8090fa0fbc8c6ef1dfba4c8b3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_e1e4cb0b4cc16e33b78f1b491785f1c478ce3746\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_603501dc85cdd3cc1e25c604c5a6b2ca5069f714\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_6b7e0604a477fd136e895e5c921941e58fa84fed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_d20adf056663cee9fdbafd8419fcc43720d1cb6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_f91a0cf643eb5c0839de42a24da725393b878af2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_f7a1e8512a5d4bf20e7d4c5b5077bba9a53c2d34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_594b1581c44c5fe582d99b4f6a77c090cf3b52c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_a37353115719c66131ee18c55219addd70dae106\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_14855215c5e95821e67eb1a5ab4a1b266e2832f7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_7002cc60e93c619a378d430a16e34e6df84e2158\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\Nathalie\AndroidStudioProjects\Cuhacks1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_9fdca869e5ed5fe1fce368cf7cfb1fb3f28a74f9\classes.dex" />
+    </item>
+
+</items>
