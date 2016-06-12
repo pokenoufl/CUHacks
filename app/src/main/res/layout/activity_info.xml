@@ -7,6 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#F5F5DC"
     tools:context="cuhacks.cuhacks1.InfoActivity">
 
     <TextView
@@ -16,7 +17,10 @@
         android:text=" Information About Domestic Violence:"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
-        android:textSize="20dp" />
+        android:textSize="20dp"
+        android:autoText="false"
+        android:textStyle="bold|italic"
+        android:textColor="#800080" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -25,7 +29,9 @@
         android:text="National Domestic Violence Hotline:"
         android:id="@+id/textView2"
         android:layout_below="@+id/textView4"
-        android:layout_toEndOf="@+id/textView4" />
+        android:layout_toEndOf="@+id/textView4"
+        android:textStyle="bold|italic"
+        android:textColor="#800080" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -36,10 +42,13 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#D2B48C"
         android:text="1-800-799-7233"
         android:id="@+id/button3"
         android:layout_below="@+id/textView2"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:textStyle="bold"
+        android:textColor="#800080" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -49,7 +58,9 @@
         android:id="@+id/textView5"
         android:textSize="18dp"
         android:layout_below="@+id/button3"
-        android:layout_alignEnd="@+id/textView7" />
+        android:layout_alignEnd="@+id/textView7"
+        android:textStyle="bold"
+        android:textColor="#800080" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -67,7 +78,9 @@
         android:id="@+id/textView7"
         android:textSize="18dp"
         android:layout_below="@+id/textView9"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:textStyle="bold|italic"
+        android:textColor="#800080" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -84,7 +97,8 @@
         android:text=" The dictionary defines domestic violence as violent or aggressive behavior within the home, typically involving the violent abuse of a spouse or partner. It includes physical violence, sexual violence, psychological violence, and emotional abuse. Domestic violence can result in physical injury, psychological trauma, and in severe cases, even death"
         android:id="@+id/textView9"
         android:layout_below="@+id/textView5"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:textStyle="italic" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -93,7 +107,8 @@
         android:text="Domestic violence generally intensifies over time and abusers may gradually become more aggressive as time continues. Abuse may begin with easily downplayed or dismissed behaviors such as name-calling, threats, or distrust. However, violence and control always intensifies over time with an abuser."
         android:id="@+id/textView10"
         android:layout_below="@+id/textView7"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:textStyle="italic" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -103,7 +118,9 @@
         android:id="@+id/textView11"
         android:layout_below="@+id/textView10"
         android:layout_alignParentStart="true"
-        android:textSize="18dp" />
+        android:textSize="18dp"
+        android:textStyle="bold|italic"
+        android:textColor="#800080" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -112,6 +129,7 @@
         android:text="This app allows for a secure and organized way to ensure safety when dealing with domestic violence. By utilizing google maps in order to create a quick path to various hotlines, the violence prevention app will ensure an efficient way to access the multitude of facilities that domestic violence victims desperately need. "
         android:id="@+id/textView12"
         android:layout_below="@+id/textView11"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:textStyle="italic" />
 
 </RelativeLayout>
